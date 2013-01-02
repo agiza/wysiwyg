@@ -1,5 +1,7 @@
 <?php
 /**
  * @file
- * Drupal needs this blank file.
+ * Code for the Webtribe Wysiwyg feature.
  */
+
+include_once 'webtribe_wysiwyg.features.inc';
